@@ -1,0 +1,155 @@
+2026-10-10 16:09:36,069 INFO pinecone.client.indexes: Listing indexes
+2026-10-10 16:09:37,314 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes "HTTP/1.1 200 OK"
+2026-10-10 16:09:37,320 INFO haystack_integrations.document_stores.pinecone.document_store: Connecting to existing index vpg07. `dimension`, `spec`, and `metric` will be ignored.
+2026-10-10 16:09:37,321 INFO pinecone.client.indexes: Describing index 'vpg07'
+2026-10-10 16:09:37,555 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes/vpg07 "HTTP/1.1 200 OK"
+2026-10-10 16:09:38,247 INFO pinecone.index: Index client created for host https://vpg07-jopkxzb.svc.aped-4627-b74a.pinecone.io
+2026-10-10 16:09:38,247 INFO pinecone.index: Describing index stats
+2026-10-10 16:09:39,557 INFO pinecone.index: Describing index stats
+2026-10-10 16:09:39,903 INFO team_bot.pipelines: Pinecone: индекс vpg07, пространство team-chat, размерность 1536.
+2026-10-10 16:09:41,139 INFO team_bot.telegram_bot: Бот @MMVPf02_bot запущен. Жду сообщения.
+2026-10-10 16:12:12,691 INFO pinecone.client.indexes: Listing indexes
+2026-10-10 16:12:13,754 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes "HTTP/1.1 200 OK"
+2026-10-10 16:12:13,809 INFO haystack_integrations.document_stores.pinecone.document_store: Connecting to existing index vpg08. `dimension`, `spec`, and `metric` will be ignored.
+2026-10-10 16:12:13,810 INFO pinecone.client.indexes: Describing index 'vpg08'
+2026-10-10 16:12:14,354 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes/vpg08 "HTTP/1.1 200 OK"
+2026-10-10 16:12:14,527 INFO pinecone.index: Index client created for host https://vpg08-jopkxzb.svc.aped-4627-b74a.pinecone.io
+2026-10-10 16:12:14,527 INFO pinecone.index: Describing index stats
+2026-10-10 16:12:15,782 INFO pinecone.index: Describing index stats
+2026-10-10 16:12:16,122 INFO team_bot.pipelines: Pinecone: индекс vpg08, пространство team-chat, размерность 1536.
+2026-10-10 16:12:17,080 INFO team_bot.telegram_bot: Бот @MMVPf02_bot запущен. Жду сообщения.
+2026-10-10 16:21:37,356 INFO pinecone.client.indexes: Listing indexes
+2026-10-10 16:21:38,539 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes "HTTP/1.1 200 OK"
+2026-10-10 16:21:38,541 INFO haystack_integrations.document_stores.pinecone.document_store: Connecting to existing index vpg08. `dimension`, `spec`, and `metric` will be ignored.
+2026-10-10 16:21:38,541 INFO pinecone.client.indexes: Describing index 'vpg08'
+2026-10-10 16:21:38,803 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes/vpg08 "HTTP/1.1 200 OK"
+2026-10-10 16:21:38,982 INFO pinecone.index: Index client created for host https://vpg08-jopkxzb.svc.aped-4627-b74a.pinecone.io
+2026-10-10 16:21:38,982 INFO pinecone.index: Describing index stats
+2026-10-10 16:21:40,311 INFO pinecone.index: Describing index stats
+2026-10-10 16:21:40,651 INFO team_bot.pipelines: Pinecone: индекс vpg08, пространство team-chat, размерность 1536.
+2026-10-10 16:21:41,614 INFO team_bot.telegram_bot: Бот @MMVPf02_bot запущен. Жду сообщения.
+2026-10-10 16:31:36,696 INFO team_bot.telegram_bot: Сообщение 542 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 16:32:51,754 INFO team_bot.telegram_bot: Сообщение 543 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 16:35:05,940 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 16:35:06,084 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 16:35:07,567 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 16:35:07,669 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 16:35:09,189 INFO team_bot.telegram_bot: Сообщение 546 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 16:35:32,488 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 16:35:32,489 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 16:35:33,505 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 16:35:33,538 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 16:35:34,955 INFO team_bot.telegram_bot: Сообщение 547 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 21:43:32,945 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:43:32,945 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:43:34,223 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:43:34,299 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:43:35,799 INFO team_bot.telegram_bot: Сообщение 548 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 21:43:57,124 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:43:57,126 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:43:58,065 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:43:58,137 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:43:59,536 INFO team_bot.telegram_bot: Сообщение 549 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 21:44:24,913 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:44:24,914 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:44:25,966 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:44:26,044 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:44:27,361 INFO team_bot.telegram_bot: Сообщение 550 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 21:44:51,996 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:44:51,997 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:44:53,014 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:44:53,141 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:44:55,306 INFO haystack.core.pipeline.base: Warming up component text_embedder...
+2026-10-10 21:44:55,309 INFO haystack.core.pipeline.base: Warming up component llm...
+2026-10-10 21:44:55,312 INFO haystack.core.pipeline.pipeline: Running component text_embedder
+2026-10-10 21:44:56,353 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:44:56,464 INFO haystack.core.pipeline.pipeline: Running component retriever
+2026-10-10 21:44:56,465 INFO pinecone.index: Querying index with top_k=8
+2026-10-10 21:44:57,166 INFO haystack.core.pipeline.pipeline: Running component prompt_builder
+2026-10-10 21:44:57,171 INFO haystack.core.pipeline.pipeline: Running component llm
+2026-10-10 21:44:58,802 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-10 21:49:32,633 INFO pinecone.client.indexes: Listing indexes
+2026-10-10 21:49:33,705 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes "HTTP/1.1 200 OK"
+2026-10-10 21:49:33,710 INFO haystack_integrations.document_stores.pinecone.document_store: Connecting to existing index vpg08. `dimension`, `spec`, and `metric` will be ignored.
+2026-10-10 21:49:33,710 INFO pinecone.client.indexes: Describing index 'vpg08'
+2026-10-10 21:49:34,435 INFO httpx: HTTP Request: GET https://api.pinecone.io/indexes/vpg08 "HTTP/1.1 200 OK"
+2026-10-10 21:49:34,634 INFO pinecone.index: Index client created for host https://vpg08-jopkxzb.svc.aped-4627-b74a.pinecone.io
+2026-10-10 21:49:34,634 INFO pinecone.index: Describing index stats
+2026-10-10 21:49:35,915 INFO pinecone.index: Describing index stats
+2026-10-10 21:49:36,263 INFO team_bot.pipelines: Pinecone: индекс vpg08, пространство team-chat, размерность 1536.
+2026-10-10 21:49:37,337 INFO team_bot.telegram_bot: Бот @MMVPf02_bot запущен. Жду сообщения.
+2026-10-10 21:51:18,175 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:51:18,288 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:51:19,794 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:51:19,915 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:51:21,394 INFO team_bot.telegram_bot: Сообщение 555 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 21:51:42,197 INFO pinecone.index: Querying index with top_k=1000
+2026-10-10 21:51:43,745 INFO haystack.core.pipeline.base: Warming up component text_embedder...
+2026-10-10 21:51:43,747 INFO haystack.core.pipeline.base: Warming up component llm...
+2026-10-10 21:51:43,749 INFO haystack.core.pipeline.pipeline: Running component text_embedder
+2026-10-10 21:51:44,747 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:51:44,832 INFO haystack.core.pipeline.pipeline: Running component retriever
+2026-10-10 21:51:44,832 INFO pinecone.index: Querying index with top_k=8
+2026-10-10 21:51:45,263 INFO haystack.core.pipeline.pipeline: Running component prompt_builder
+2026-10-10 21:51:45,264 INFO haystack.core.pipeline.pipeline: Running component llm
+2026-10-10 21:51:48,638 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-10 21:51:48,895 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:51:48,896 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:51:49,826 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:51:49,893 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:58:03,015 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:58:03,016 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:58:04,142 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:58:04,266 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 21:58:05,865 INFO team_bot.telegram_bot: Сообщение 558 в чате -5309637326 без упоминания бота, ответ не отправляю.
+2026-10-10 21:58:43,766 ERROR TeleBot: Infinity polling exception: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2026-10-10 21:59:32,518 INFO pinecone.index: Querying index with top_k=1000
+2026-10-10 21:59:34,352 INFO haystack.core.pipeline.base: Warming up component text_embedder...
+2026-10-10 21:59:34,352 INFO haystack.core.pipeline.base: Warming up component llm...
+2026-10-10 21:59:34,352 INFO haystack.core.pipeline.pipeline: Running component text_embedder
+2026-10-10 21:59:35,560 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:59:35,705 INFO haystack.core.pipeline.pipeline: Running component retriever
+2026-10-10 21:59:35,705 INFO pinecone.index: Querying index with top_k=8
+2026-10-10 21:59:36,415 INFO haystack.core.pipeline.pipeline: Running component prompt_builder
+2026-10-10 21:59:36,418 INFO haystack.core.pipeline.pipeline: Running component llm
+2026-10-10 21:59:38,859 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-10 21:59:39,096 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 21:59:39,097 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 21:59:40,187 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 21:59:40,323 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 22:01:04,671 INFO pinecone.index: Querying index with top_k=1000
+2026-10-10 22:01:06,500 INFO haystack.core.pipeline.base: Warming up component text_embedder...
+2026-10-10 22:01:06,500 INFO haystack.core.pipeline.base: Warming up component llm...
+2026-10-10 22:01:06,501 INFO haystack.core.pipeline.pipeline: Running component text_embedder
+2026-10-10 22:01:07,686 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 22:01:07,821 INFO haystack.core.pipeline.pipeline: Running component retriever
+2026-10-10 22:01:07,821 INFO pinecone.index: Querying index with top_k=8
+2026-10-10 22:01:08,334 INFO haystack.core.pipeline.pipeline: Running component prompt_builder
+2026-10-10 22:01:08,340 INFO haystack.core.pipeline.pipeline: Running component llm
+2026-10-10 22:01:11,160 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-10 22:01:11,420 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 22:01:11,421 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 22:01:12,414 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 22:01:12,538 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 22:01:46,431 INFO pinecone.index: Querying index with top_k=1000
+2026-10-10 22:01:48,569 INFO haystack.core.pipeline.base: Warming up component text_embedder...
+2026-10-10 22:01:48,569 INFO haystack.core.pipeline.base: Warming up component llm...
+2026-10-10 22:01:48,570 INFO haystack.core.pipeline.pipeline: Running component text_embedder
+2026-10-10 22:01:49,946 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 22:01:50,031 INFO haystack.core.pipeline.pipeline: Running component retriever
+2026-10-10 22:01:50,031 INFO pinecone.index: Querying index with top_k=8
+2026-10-10 22:01:51,209 INFO haystack.core.pipeline.pipeline: Running component prompt_builder
+2026-10-10 22:01:51,213 INFO haystack.core.pipeline.pipeline: Running component llm
+2026-10-10 22:01:52,515 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-10 22:01:52,755 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 22:01:52,760 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 22:01:53,949 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 22:01:53,972 INFO haystack.core.pipeline.pipeline: Running component writer
+2026-10-10 22:04:13,863 INFO haystack.core.pipeline.base: Warming up component llm...
+2026-10-10 22:04:13,865 INFO haystack.core.pipeline.pipeline: Running component prompt_builder
+2026-10-10 22:04:13,867 INFO haystack.core.pipeline.pipeline: Running component llm
+2026-10-10 22:04:16,522 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-10 22:04:16,768 INFO haystack.core.pipeline.base: Warming up component embedder...
+2026-10-10 22:04:16,769 INFO haystack.core.pipeline.pipeline: Running component embedder
+2026-10-10 22:04:18,185 INFO httpx2: HTTP Request: POST https://api.proxyapi.ru/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-10 22:04:18,395 INFO haystack.core.pipeline.pipeline: Running component writer
